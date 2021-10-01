@@ -45,7 +45,7 @@ E-Mail: TheMatiaz0@protonmail.com
 
 # 💚 
 
-Besides programming, my love goes to psychology, music and video games 
+Besides programming, my love goes to psychology, music and video games. 
 
 
 <br />

@@ -1,9 +1,5 @@
 
-<center>
-
-![avatar](assets/avatar200px.webp)
-
-
+<p align="center">
 
 ---
 # 🛠
@@ -66,4 +62,4 @@ Thanks fo visting my profile, Internet person... or a crawler.
 
 ![Visitor Count](https://profile-counter.glitch.me/TheMatiaz0/count.svg)
 
-</center>
+</p>

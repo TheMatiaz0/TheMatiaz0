@@ -47,18 +47,16 @@ E-Mail: TheMatiaz0@protonmail.com
 
 Besides programming, my love goes to psychology, music and video games 
 
----
 
 <br />
-<br />
 
-
+# 📊
 
 ![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMatiaz0&theme=merko)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thematiaz0&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-Thanks fo visting my profile, Internet person... or a crawler.
+Thanks fo visting my profile, Internet person... or a crawler bot.
 
 ![Visitor Count](https://profile-counter.glitch.me/TheMatiaz0/count.svg)

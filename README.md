@@ -2,18 +2,19 @@
 # 🛠
 🎮 Game Development:
 
-![C#](https://img.shields.io/badge/CSharp-Intermediate-green)
-![Unity](https://img.shields.io/badge/Unity-Intermediate-white)
+![C#](https://img.shields.io/badge/CSharp-Expert-green)
+![Unity](https://img.shields.io/badge/Unity-Expert-white)
 
 🌎 Web:
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
 ✨ General:
 
 ![Python](https://img.shields.io/badge/Python-Beginner-yellow)
+![Java](https://img.shields.io/badge/Java-Beginner-white)
 
 
 <br />

@@ -2,7 +2,7 @@
 
 Good morning or evening! 👋 
 
-I'm Mateusz Kusionowicz. I have a 2 years of experience in Unity and C#. Also, in my free time I like to learn Python and create websites (especially frontend).
+I'm Mateusz Kusionowicz. I have 2 years of experience in Unity and C#. Also, in my free time I like to learn Python and create websites (especially frontend).
 
 I'm open to any business or non-business offers.
 

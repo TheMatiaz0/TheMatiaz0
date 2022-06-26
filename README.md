@@ -1,24 +1,3 @@
-
-# 🛠
-🎮 Game Development:
-
-![C#](https://img.shields.io/badge/CSharp-Expert-green)
-![Unity](https://img.shields.io/badge/Unity-Expert-white)
-
-🌎 Web:
-
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-
-✨ General:
-
-![Python](https://img.shields.io/badge/Python-Beginner-yellow)
-![Java](https://img.shields.io/badge/Java-Beginner-white)
-
-
-<br />
-
 # 👤 
 
 Good morning or evening! 👋 
@@ -54,9 +33,3 @@ Besides programming, my love goes to psychology, music and video games.
 
 ![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMatiaz0&theme=merko)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thematiaz0&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-Thanks fo visting my profile, Internet person... or a crawler bot.
-
-![Visitor Count](https://profile-counter.glitch.me/TheMatiaz0/count.svg)

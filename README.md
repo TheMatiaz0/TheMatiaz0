@@ -1,35 +1,27 @@
-# 👤 
+# Mateusz Kusionowicz 
 
-Good morning or evening! 👋 
-
-I'm Mateusz Kusionowicz. I have 2 years of experience in Unity and C#. Also, in my free time I like to learn Python and create websites (especially frontend).
-
-I'm open to any business or non-business offers.
+Open to any business or non-business offers (NOT interested in web3, blockchains and NFTs)
 
 E-Mail: TheMatiaz0@protonmail.com
 
+---
+
+### Languages and Tools
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-> [Portfolio](https://thematiaz0.github.io)
+#
 
-> [GitHub (infinite loop)](https://github.com/TheMatiaz0)
+> [Portfolio](https://thematiaz0.github.io)
 
 > [LinkedIn](https://www.linkedin.com/in/mateusz-kusionowicz)
 
 > [My Resume (English)](https://thematiaz0.github.io/Mateusz%20Kusionowicz%20-%20Resume.pdf)
-
-
-<br />
-
-
-# 💚 
-
-Besides programming, my love goes to psychology, music and video games. 
-
-
-<br />
-
-# 📊
-
-![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMatiaz0&theme=merko)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thematiaz0&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

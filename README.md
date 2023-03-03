@@ -2,7 +2,7 @@
 
 Open to any business or non-business offers (NOT interested in web3, blockchains and NFTs)
 
-E-Mail: TheMatiaz0@protonmail.com
+E-Mail: mateusz@kusionowicz.com
 
 ---
 

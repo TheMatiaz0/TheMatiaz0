@@ -20,7 +20,7 @@ E-Mail: TheMatiaz0@protonmail.com
 
 #
 
-> [Portfolio](https://thematiaz0.github.io)
+> [Portfolio](https://m.kusionowicz.com)
 
 > [LinkedIn](https://www.linkedin.com/in/mateusz-kusionowicz)
 

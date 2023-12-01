@@ -20,7 +20,7 @@ E-Mail: mateusz@kusionowicz.com
 
 #
 
-> [Portfolio](https://m.kusionowicz.com)
+> [Portfolio](https://kusionowicz.com)
 
 > [LinkedIn](https://www.linkedin.com/in/mateusz-kusionowicz)
 

@@ -15,7 +15,7 @@ Email: mateusz@kusionowicz.com
 - [Warszawieś](https://github.com/TheMatiaz0/crpk2024) • a city builder game made in 48 hours, be wary that code may not be perfect!
 - [Equipment System](https://github.com/TheMatiaz0/Equipment-System) • an example equipment/inventory system with UI.
 - [GalleryAssignment](https://github.com/TheMatiaz0/GalleryAssignment) • a task to handle asynchronically runtime data to UI.
-- [BluePlayer](https://github.com/TheMatiaz0/BluePlayer) - a WPF music application using C# for backend and XAML language for frontend (very old!).
+- [BluePlayer](https://github.com/TheMatiaz0/BluePlayer) • a WPF music application using C# for backend and XAML language for frontend (very old!).
 
 ### Areas of interest:
 Gamedev | UI & UX | Psychology | Frontend | Music

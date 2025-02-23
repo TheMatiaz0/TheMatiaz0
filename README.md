@@ -10,6 +10,7 @@ Email: mateusz@kusionowicz.com
 [Telegraphist 1920: Beats of War](https://telegraphist1920.com)
 
 ### Portfolio (Public Repositories):
+- [NoteNough](https://github.com/TheMatiaz0/NoteNough-Web) • created full-stack web application using ASP.NET and React, along with Docker deployment.
 - [InputGlyphs](https://github.com/eviltwo/InputGlyphs/compare/main...TheMatiaz0:InputGlyphs:code-refactor?expand=1) • work in progress refactor of open source InputGlyphs asset.
 - [UI Job Assignment](https://github.com/TheMatiaz0/UI-Programmer-Job-Assignment) • very proud of this one, as I tackled common issues with Unity UI within 2 weeks.
 - [Warszawieś](https://github.com/TheMatiaz0/crpk2024) • a city builder game made in 48 hours, be wary that code may not be perfect!

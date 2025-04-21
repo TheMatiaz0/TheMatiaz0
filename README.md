@@ -12,7 +12,7 @@ Email: mateusz@kusionowicz.com
 ### Portfolio (Public Repositories):
 - [NoteNough](https://github.com/TheMatiaz0/NoteNough-Web) • a full-stack web application using ASP.NET and React, along with Docker deployment.
 - [Horror Game Job Assignment](https://github.com/TheMatiaz0/Horror-Game-Job-Assignment) • a horror puzzle game toolkit made in 5 days with UniTask and DOTween support.
-- [UI Job Assignment](https://github.com/TheMatiaz0/UI-Programmer-Job-Assignment) • very proud of this one, as I tackled common issues with Unity UI within 2 weeks.
+- [UI Job Assignment](https://github.com/TheMatiaz0/UI-Programmer-Job-Assignment) • tackled common issues with Unity UI within 2 weeks.
 - [Warszawieś](https://github.com/TheMatiaz0/crpk2024) • a city builder game made in 48 hours, be wary that code may not be perfect!
 - [GalleryAssignment](https://github.com/TheMatiaz0/GalleryAssignment) • a task to handle asynchronically runtime data to UI.
 - [BluePlayer](https://github.com/TheMatiaz0/BluePlayer) • a WPF music application using C# for backend and XAML language for frontend (very old!).
